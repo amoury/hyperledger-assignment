@@ -1,5 +1,7 @@
 # Hyperledger assignment - Upgrad
 
+**Please Note** - To get a full experience of this Readme, you can use any markdown viewer or checkout this repository - https://github.com/amoury/hyperledger-assignment
+
 ## Steps to test the code on composer playground - 
 
 1. Copy paste all the code from each of the files to the relevant files on the playground, then click on **Deploy Changes** button at the bottom.
